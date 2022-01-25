@@ -1,2 +1,2 @@
-# bn_cra
-Bayesian Network for Credit Risk Analysis of Peer-to-Peer Lending.
+# Bayesian Network for Credit Risk Analysis of Peer-to-Peer Lending.
+
